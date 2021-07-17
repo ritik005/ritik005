@@ -1,16 +1,27 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**ritik005/ritik005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## नमस्ते 🙏, I'm RITIK VARSHNEY 
+## Full Stack Developer 👨‍💻
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/LinkedIn-ritik005-blue)](https://www.linkedin.com/in/ritik005/)
+[![](https://img.shields.io/badge/Gmail-ritikvarshney2014@gmail.com-red)](mailto:ritikvarshney2014@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const ritik = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "tech"],
+    technologies:{
+        backEnd: ["nodejs", "express"],
+        fronEnd: ["react"],
+        database: ["mongo","mySql"],
+        misc: ["Firebase", "Socket.IO"]
+    },
+    architecture: ["Single page applications"],
+}
+```
+
+---
+⭐️ From [@ritik005](https://github.com/ritik005)
